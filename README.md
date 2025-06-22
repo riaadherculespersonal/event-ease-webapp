@@ -22,6 +22,10 @@
 ## 💾 GitHub Repository
 [GitHub - FinalPOE-st10258492](https://github.com/herculesriaadst10258492/FinalPOE-st10258492-RiaadHercules-CloudDevelopmentA-Summative)
 
+## YouTube Video Link
+(https://youtu.be/wA2TepTjSB0)
+
+
 ## 🧪 Testing Summary
 - All CRUD functionality for Event, Venue, and Booking tested successfully.
 - Validation and error messages appear as expected.
@@ -30,7 +34,7 @@
 
 
 ## 📹 YouTube Demo
-Video submission uploaded on Arc.
+Video submission uploaded on Arc and YouTube.
 
 ## 👨‍💻 Developer Info
 **Name:** Riaad Hercules  
