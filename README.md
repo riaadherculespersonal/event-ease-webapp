@@ -1,4 +1,4 @@
-# FinalPOE-st10258492: Riaad Hercules - CloudDevelopmentA Summative
+
 
 ## 📘 Project Overview
 **EventEase2** is a student-focused event management web application developed in ASP.NET Core MVC and deployed to Microsoft Azure. It allows students to view, create, and manage events across various campus venues.
@@ -16,15 +16,8 @@
 - **Resource Group**: (AZ-JHB-RSG-IIEMSA-ST10258492-TER)
 - **SQL server**: (eventeaseserverrh2)
 
-## 🌐 Live Website
-[EventEase2 on Azure](https://eventease2-g3aagcdwevhkcghf.southafricanorth-01.azurewebsites.net/Home/Index)
-
-## 💾 GitHub Repository
-[GitHub - FinalPOE-st10258492](https://github.com/herculesriaadst10258492/FinalPOE-st10258492-RiaadHercules-CloudDevelopmentA-Summative)
-
 ## YouTube Video Link
 (https://youtu.be/wA2TepTjSB0)
-
 
 ## 🧪 Testing Summary
 - All CRUD functionality for Event, Venue, and Booking tested successfully.
@@ -32,12 +25,6 @@
 - Azure deployment tested by running the site live, performing data entry, and validating database persistence.
 
 
-
-## 📹 YouTube Demo
-Video submission uploaded on Arc and YouTube.
-
 ## 👨‍💻 Developer Info
 **Name:** Riaad Hercules  
-**Student Number:** ST10258492  
-**Module:** CLDV6211 - Cloud Development A  
-**Institution:** IIE MSA
+
